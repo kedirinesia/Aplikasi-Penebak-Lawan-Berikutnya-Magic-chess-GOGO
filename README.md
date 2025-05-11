@@ -6,5 +6,7 @@ Aplikasi ini ditujukan kepada player Magic Chess GOGO dengan device pc yang kesu
 ⚠️**INI BUKAN CHEAT!!**
 **Tetapi berdasarkan perhitungan menggunakan rumus**
 
+[Download here](https://www.mediafire.com/file/f2pqcojbazo8x1v/Aplikasi_Penebak_Lawan_Berikutnya_MCGOGO.exe/file)
+
 
 ![Image](https://github.com/user-attachments/assets/28756614-ad6a-4e56-9a79-f21b619a6705)

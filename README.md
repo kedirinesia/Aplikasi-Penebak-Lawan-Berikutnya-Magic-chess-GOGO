@@ -2,3 +2,5 @@
 
 
 Aplikasi ini ditujukan kepada player Magic Chess GOGO dengan device pc yang kesulitan untuk memprediksi lawan berikutnya yang akan dilawan. ada banyak manfaat dari program ini. manfaat terbesar dirasakan oleh commander popol kupa untuk memilih hero yang ingin di klon oleh skill popol, dan ada pula manfaat lainnya seperti positioning untuk menang..
+
+![Image](https://github.com/user-attachments/assets/28756614-ad6a-4e56-9a79-f21b619a6705)

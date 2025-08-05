@@ -11,3 +11,4 @@ Aplikasi ini ditujukan kepada player Magic Chess GOGO dengan device pc yang kesu
 
 ![Image](https://github.com/user-attachments/assets/28756614-ad6a-4e56-9a79-f21b619a6705)
 
+  
